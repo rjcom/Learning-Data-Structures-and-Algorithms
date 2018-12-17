@@ -1,0 +1,10 @@
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 7\Sorting\bin\Debug\Sorting.exe.config
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 7\Sorting\bin\Debug\Sorting.exe
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 7\Sorting\bin\Debug\Sorting.pdb
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 7\Sorting\obj\Debug\Sorting.csprojAssemblyReference.cache
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 7\Sorting\obj\Debug\Sorting.Form1.resources
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 7\Sorting\obj\Debug\Sorting.Properties.Resources.resources
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 7\Sorting\obj\Debug\Sorting.csproj.GenerateResource.cache
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 7\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 7\Sorting\obj\Debug\Sorting.exe
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 7\Sorting\obj\Debug\Sorting.pdb

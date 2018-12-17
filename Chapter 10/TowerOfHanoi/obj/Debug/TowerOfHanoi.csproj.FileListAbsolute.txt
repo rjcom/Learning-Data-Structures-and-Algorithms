@@ -1,0 +1,9 @@
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 10\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe.config
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 10\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 10\TowerOfHanoi\bin\Debug\TowerOfHanoi.pdb
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 10\TowerOfHanoi\obj\Debug\TowerOfHanoi.Form1.resources
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 10\TowerOfHanoi\obj\Debug\TowerOfHanoi.Properties.Resources.resources
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 10\TowerOfHanoi\obj\Debug\TowerOfHanoi.csproj.GenerateResource.cache
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 10\TowerOfHanoi\obj\Debug\TowerOfHanoi.csproj.CoreCompileInputs.cache
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 10\TowerOfHanoi\obj\Debug\TowerOfHanoi.exe
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 10\TowerOfHanoi\obj\Debug\TowerOfHanoi.pdb

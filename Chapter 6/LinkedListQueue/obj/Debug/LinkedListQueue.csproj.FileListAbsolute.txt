@@ -1,0 +1,10 @@
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 6\LinkedListQueue\bin\Debug\LinkedListQueue.exe.config
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 6\LinkedListQueue\bin\Debug\LinkedListQueue.exe
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 6\LinkedListQueue\bin\Debug\LinkedListQueue.pdb
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 6\LinkedListQueue\obj\Debug\LinkedListQueue.Form1.resources
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 6\LinkedListQueue\obj\Debug\LinkedListQueue.Properties.Resources.resources
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 6\LinkedListQueue\obj\Debug\LinkedListQueue.csproj.GenerateResource.cache
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 6\LinkedListQueue\obj\Debug\LinkedListQueue.csproj.CoreCompileInputs.cache
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 6\LinkedListQueue\obj\Debug\LinkedListQueue.exe
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 6\LinkedListQueue\obj\Debug\LinkedListQueue.pdb
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 6\LinkedListQueue\obj\Debug\LinkedListQueue.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 12\SortedTree\bin\Debug\SortedTree.exe.config
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 12\SortedTree\bin\Debug\SortedTree.exe
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 12\SortedTree\bin\Debug\SortedTree.pdb
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 12\SortedTree\obj\Debug\SortedTree.Form1.resources
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 12\SortedTree\obj\Debug\SortedTree.NodeTextDialog.resources
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 12\SortedTree\obj\Debug\SortedTree.Properties.Resources.resources
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 12\SortedTree\obj\Debug\SortedTree.csproj.GenerateResource.cache
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 12\SortedTree\obj\Debug\SortedTree.csproj.CoreCompileInputs.cache
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 12\SortedTree\obj\Debug\SortedTree.exe
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 12\SortedTree\obj\Debug\SortedTree.pdb

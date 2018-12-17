@@ -1,0 +1,9 @@
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 14\PartitionProblem\bin\Debug\PartitionProblem.exe.config
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 14\PartitionProblem\bin\Debug\PartitionProblem.exe
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 14\PartitionProblem\bin\Debug\PartitionProblem.pdb
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 14\PartitionProblem\obj\Debug\PartitionProblem.Form1.resources
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 14\PartitionProblem\obj\Debug\PartitionProblem.Properties.Resources.resources
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 14\PartitionProblem\obj\Debug\PartitionProblem.csproj.GenerateResource.cache
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 14\PartitionProblem\obj\Debug\PartitionProblem.csproj.CoreCompileInputs.cache
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 14\PartitionProblem\obj\Debug\PartitionProblem.exe
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 14\PartitionProblem\obj\Debug\PartitionProblem.pdb

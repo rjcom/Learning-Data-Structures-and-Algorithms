@@ -1,0 +1,10 @@
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 3\Factor\bin\Debug\Factor.exe.config
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 3\Factor\bin\Debug\Factor.exe
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 3\Factor\bin\Debug\Factor.pdb
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 3\Factor\obj\Debug\Factor.csprojAssemblyReference.cache
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 3\Factor\obj\Debug\Factor.Form1.resources
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 3\Factor\obj\Debug\Factor.Properties.Resources.resources
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 3\Factor\obj\Debug\Factor.csproj.GenerateResource.cache
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 3\Factor\obj\Debug\Factor.csproj.CoreCompileInputs.cache
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 3\Factor\obj\Debug\Factor.exe
+C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 3\Factor\obj\Debug\Factor.pdb
