@@ -7,3 +7,12 @@ C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\
 C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 4\SinglyLinkedList\obj\Debug\SinglyLinkedList.csproj.CoreCompileInputs.cache
 C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 4\SinglyLinkedList\obj\Debug\SinglyLinkedList.exe
 C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 4\SinglyLinkedList\obj\Debug\SinglyLinkedList.pdb
+C:\Users\toor\Documents\Git Repos\Learning-Data-Structures-and-Algorithms\Chapter 4\SinglyLinkedList\bin\Debug\SinglyLinkedList.exe.config
+C:\Users\toor\Documents\Git Repos\Learning-Data-Structures-and-Algorithms\Chapter 4\SinglyLinkedList\bin\Debug\SinglyLinkedList.exe
+C:\Users\toor\Documents\Git Repos\Learning-Data-Structures-and-Algorithms\Chapter 4\SinglyLinkedList\bin\Debug\SinglyLinkedList.pdb
+C:\Users\toor\Documents\Git Repos\Learning-Data-Structures-and-Algorithms\Chapter 4\SinglyLinkedList\obj\Debug\SinglyLinkedList.Form1.resources
+C:\Users\toor\Documents\Git Repos\Learning-Data-Structures-and-Algorithms\Chapter 4\SinglyLinkedList\obj\Debug\SinglyLinkedList.Properties.Resources.resources
+C:\Users\toor\Documents\Git Repos\Learning-Data-Structures-and-Algorithms\Chapter 4\SinglyLinkedList\obj\Debug\SinglyLinkedList.csproj.GenerateResource.cache
+C:\Users\toor\Documents\Git Repos\Learning-Data-Structures-and-Algorithms\Chapter 4\SinglyLinkedList\obj\Debug\SinglyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\toor\Documents\Git Repos\Learning-Data-Structures-and-Algorithms\Chapter 4\SinglyLinkedList\obj\Debug\SinglyLinkedList.exe
+C:\Users\toor\Documents\Git Repos\Learning-Data-Structures-and-Algorithms\Chapter 4\SinglyLinkedList\obj\Debug\SinglyLinkedList.pdb

@@ -8,3 +8,13 @@ C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\
 C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 2\RuntimeFunctions\obj\Debug\RuntimeFunctions.csproj.CoreCompileInputs.cache
 C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 2\RuntimeFunctions\obj\Debug\RuntimeFunctions.exe
 C:\Users\toor\Downloads\Learning Data Structures and Algorithms - Working Files\Chapter 2\RuntimeFunctions\obj\Debug\RuntimeFunctions.pdb
+C:\Users\toor\Documents\Git Repos\Learning-Data-Structures-and-Algorithms\Chapter 2\RuntimeFunctions\bin\Debug\RuntimeFunctions.exe.config
+C:\Users\toor\Documents\Git Repos\Learning-Data-Structures-and-Algorithms\Chapter 2\RuntimeFunctions\bin\Debug\RuntimeFunctions.exe
+C:\Users\toor\Documents\Git Repos\Learning-Data-Structures-and-Algorithms\Chapter 2\RuntimeFunctions\bin\Debug\RuntimeFunctions.pdb
+C:\Users\toor\Documents\Git Repos\Learning-Data-Structures-and-Algorithms\Chapter 2\RuntimeFunctions\obj\Debug\RuntimeFunctions.csprojAssemblyReference.cache
+C:\Users\toor\Documents\Git Repos\Learning-Data-Structures-and-Algorithms\Chapter 2\RuntimeFunctions\obj\Debug\RuntimeFunctions.Form1.resources
+C:\Users\toor\Documents\Git Repos\Learning-Data-Structures-and-Algorithms\Chapter 2\RuntimeFunctions\obj\Debug\RuntimeFunctions.Properties.Resources.resources
+C:\Users\toor\Documents\Git Repos\Learning-Data-Structures-and-Algorithms\Chapter 2\RuntimeFunctions\obj\Debug\RuntimeFunctions.csproj.GenerateResource.cache
+C:\Users\toor\Documents\Git Repos\Learning-Data-Structures-and-Algorithms\Chapter 2\RuntimeFunctions\obj\Debug\RuntimeFunctions.csproj.CoreCompileInputs.cache
+C:\Users\toor\Documents\Git Repos\Learning-Data-Structures-and-Algorithms\Chapter 2\RuntimeFunctions\obj\Debug\RuntimeFunctions.exe
+C:\Users\toor\Documents\Git Repos\Learning-Data-Structures-and-Algorithms\Chapter 2\RuntimeFunctions\obj\Debug\RuntimeFunctions.pdb
